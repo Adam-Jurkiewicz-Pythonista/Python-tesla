@@ -12,10 +12,12 @@ def hello_user(name):
     return f"<h2>Hej {name} - wyglądasz na {plec}.</h2>"
 
 # http://localhost:5000/user2?imie=Adasiek&rok=1974
+# http://localhost:5000/user2?imie=<script>alert("HACKER")</script>&rok=19
+
 @app.route("/user2")
 def hello_user_request():
     name = request.args.get("imie", "NIC")
-    rok = request.args.get("rok", 0)
+    rok = request.args.get("rok", "ZERO")
     if rok.isdigit():
         wiek = 2025 - int(rok)
         return f"<h1>Halo -- {name} / {rok=} / {wiek=} </h1>"
