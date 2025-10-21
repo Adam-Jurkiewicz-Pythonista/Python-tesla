@@ -6,3 +6,4 @@ cur.execute("SELECT name FROM sqlite_master WHERE type='table';")
 tables = cur.fetchall()
 print(tables)
 
+
