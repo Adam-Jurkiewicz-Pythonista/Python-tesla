@@ -27,7 +27,7 @@ while True:
         
     values = (login, passw)
     try:
-        cursor.execute('INSERT INTO Users ("Username","Password") VALUES (?,?)', values)
+        cursor.execute(f'INSERT INTO {table_name} ("username","password") VALUES (?,?)', values)
         connection.commit()
         print(f"Login {login} dodany poprawnie")
     except Exception as e:
