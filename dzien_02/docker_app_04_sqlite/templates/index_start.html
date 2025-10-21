@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Rejestracja usera</title>
+</head>
+<body>
+    <h1>Witaj w naszym serwisie.</h1>
+    <hr>
+  <h2>Podaj dane do rejestracji:</h2>
+  <form action="/rejestruj" method="post">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required />
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required />
+
+    <button type="submit">Zarejestruj</button>
+  </form>
+
+<hr>
+  <h2>Podaj dane do logowania:</h2>
+  <form action="/zaloguj" method="post">
+    <label for="username">Username:</label>
+    <input type="text" id="log_username" name="username" required />
+
+    <label for="password">Password:</label>
+    <input type="password" id="log_password" name="password" required />
+
+    <button type="submit">Zaloguj</button>
+  </form>
+</body>
+</html>
