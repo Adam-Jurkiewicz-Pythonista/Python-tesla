@@ -7,10 +7,15 @@ app = Flask("APP_Template")
 def hello_world():
     return render_template("index_start.html")
 
-@app.route("/rejestruj")
+@app.route("/rejestruj", methods=['POST'])
 def rejestruj():
-    return "NIC"
+    login = request.form['username']
+    password = request.form['password']
+    return f"Otrzymano {login=} {password=}"
 
+@app.route("/zaloguj", methods=['POST'])
+def zaloguj():
+    return "NIC"
 
 @app.route("/user/<name>")
 def hello_user(name):
