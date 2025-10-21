@@ -1,0 +1,13 @@
+from flask import Flask
+
+app = Flask("Moja nazwa aplikacji")
+
+@app.route("/")
+def hello_world():
+    return "<h1>Hello, World!</h1>"
+
+@app.route("/test")
+def test_funkcji():
+    return "<h2>To jest funkcja testowa</h2>"
+
+app.run(host="0.0.0.0", port=5000)
