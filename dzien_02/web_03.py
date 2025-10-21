@@ -1,0 +1,29 @@
+from flask import Flask, request
+from markupsafe import escape
+
+app = Flask("Moja nazwa aplikacji")
+
+@app.route("/")
+def hello_world():
+    return "<h1>Hello, World!</h1>"
+
+@app.route("/user/<name>")
+def hello_user(name):
+    plec = "Dziewczynę" if name.endswith("a") else "Chłopaka"
+    return f"<h2>Hej {name} - wyglądasz na {plec}.</h2>"
+
+# http://localhost:5000/user2?imie=Adasiek&rok=1974
+# http://localhost:5000/user2?imie=<script>alert("HACKER")</script>&rok=19
+
+@app.route("/user2")
+def hello_user_request():
+    name = escape(request.args.get("imie", "NIC"))
+    # escape zabezpiecza przed injection
+    rok = request.args.get("rok", "ZERO")
+    if rok.isdigit():
+        wiek = 2025 - int(rok)
+        return f"<h1>Halo -- {name} / {rok=} / {wiek=} </h1>"
+    else:
+        return "<h3>Zła wartość roku</h3>"
+
+app.run(host="0.0.0.0", port=5000, debug=True)
