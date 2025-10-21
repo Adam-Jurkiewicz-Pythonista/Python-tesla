@@ -1,6 +1,5 @@
 import sqlite3
 import os
-from sys import exit
 
 # plik bazy
 database = "users.db"
