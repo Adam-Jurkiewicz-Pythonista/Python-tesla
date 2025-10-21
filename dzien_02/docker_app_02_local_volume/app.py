@@ -5,7 +5,7 @@ app = Flask("APP_Template")
 
 @app.route("/")
 def hello_world():
-    return render_template("formularz_rejestracji.html")
+    return render_template("index_start.html")
 
 @app.route("/rejestruj")
 def rejestruj():
