@@ -5,7 +5,12 @@ app = Flask("APP_Template")
 
 @app.route("/")
 def hello_world():
-    return render_template("index.html")
+    return render_template("formularz_rejestracji.html")
+
+@app.route("/rejestruj")
+def rejestruj():
+    return "NIC"
+
 
 @app.route("/user/<name>")
 def hello_user(name):
