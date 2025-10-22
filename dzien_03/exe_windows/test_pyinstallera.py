@@ -7,4 +7,4 @@ multiprocessing.set_start_method("spawn", force=True)
 ###
 
 ui.label('test pyinstallera!')
-ui.run(native=True)
+ui.run(native=True, show=False, reload=False, title="PyInstaller Test")
