@@ -1,0 +1,5 @@
+nicegui
+pywebview
+qtpy
+pyqt5
+PyQtWebEngine
