@@ -2,17 +2,17 @@ import os
 import hashlib
 import binascii
 
-def hash_password(password, salt_bits=32, iterations=100000):
+def hash_password(password, salt_bits=32, nr_iterations=100000):
     """
     PBKDF2-HMAC-SHA256 hash function
     :param password:
     :param salt_bits: bits for urandom, default 32
-    :param iterations: number of iterations, default 100000
+    :param nr_iterations: number of iterations, default 100000
     :return: tuple (salt, hashed pass with hex)
     """
     # Generate a random salt
     salt = os.urandom(salt_bits)
-    hashed = hashlib.pbkdf2_hmac('sha256', password.encode(), salt, iterations=iterations)
+    hashed = hashlib.pbkdf2_hmac('sha256', password.encode(), salt, iterations=nr_iterations)
     return salt, hashed
     # Convert the hash and salt to hexadecimal strings for storage
     return binascii.hexlify(salt).decode(), binascii.hexlify(hashed).decode()
