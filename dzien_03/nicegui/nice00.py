@@ -6,4 +6,4 @@ multiprocessing.set_start_method("spawn", force=True)
 ###
 
 ui.label('Hello NiceGUI!')
-ui.run(native=True)
+ui.run(native=False)
