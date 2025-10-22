@@ -7,7 +7,7 @@ while True:
     passwd = input("Podaj hasło (END) :")
     if passwd == "END":
         break
-    _, hash = hash_password(passwd)
+    _, hash = hash_password(passwd, nr_iterations=256700)
     print(f"Zaszyfrowane hasło: {hash=}")
     # od razu sprawdzenie rozszyfrowania
     xxx = verify_password(...)
