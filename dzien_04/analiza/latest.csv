@@ -1,0 +1,533 @@
+developer_name,developer_nip,typ_obiektu,nazwa_inwestycji,budynek,numer_lokalu,pietro,pokoje,status_name,status_norm,area_usable_m2,price_sqm_gross_pln,price_total_gross_pln,currency,balkon_m2,ogrodek_m2,termin,snapshot_date
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",10,"I Piętro",2,rezerwacja,zarezerwowane,33.31,12200.00,406382.00,PLN,3.60,,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",11,"I Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",12,"I Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",13,"I Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",14,"I Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",15,"I Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",16,"I Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",17,"I Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",18,"I Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",19,"II Piętro",3,sprzedane,sprzedane,57.46,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",2,Parter,2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,66.20,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",20,"II Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",21,"II Piętro",2,sprzedane,sprzedane,33.31,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",22,"II Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",23,"II Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",24,"II Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",25,"II Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",26,"II Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",27,"II Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",28,"II Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",29,"II Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",3,Parter,2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,183.60,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",30,"III Piętro",3,sprzedane,sprzedane,57.46,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",31,"III Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",32,"III Piętro",2,sprzedane,sprzedane,33.31,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",33,"III Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",34,"III Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",35,"III Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",36,"III Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",37,"III Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",38,"III Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",39,"III Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",4,Parter,2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,185.60,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",40,"III Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",41,"IV Piętro",3,sprzedane,sprzedane,57.46,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",42,"IV Piętro",2,wolne,dostępne,43.04,11800.00,507872.00,PLN,3.60,,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",43,"IV Piętro",3,wolne,dostępne,45.37,11800.00,535366.00,PLN,3.60,,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",44,"IV Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",45,"IV Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",46,"IV Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",47,"IV Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",48,"IV Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",49,"IV Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",5,Parter,2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,93.10,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",50,"IV Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",6,Parter,2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,93.10,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",7,Parter,2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,93.10,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",8,"I Piętro",3,wolne,dostępne,57.46,10400.00,597584.00,PLN,3.60,,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek A",9,"I Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",1,Parter,2,wolne,dostępne,33.41,12000.00,400920.00,PLN,3.60,20.60,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",10,"I Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",11,"I Piętro",2,sprzedane,sprzedane,33.31,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",12,"I Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",13,"I Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",14,"I Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",15,"I Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",16,"I Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",17,"I Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",18,"I Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",19,"I Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",2,Parter,2,wolne,dostępne,33.68,12000.00,404160.00,PLN,3.60,19.10,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",20,"II Piętro",3,sprzedane,sprzedane,57.46,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",21,"II Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",22,"II Piętro",2,sprzedane,sprzedane,33.31,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",23,"II Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",24,"II Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",25,"II Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",26,"II Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",27,"II Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",28,"II Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",29,"II Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",3,Parter,2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,17.40,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",30,"II Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",31,"III Piętro",3,sprzedane,sprzedane,57.46,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",32,"III Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",33,"III Piętro",2,sprzedane,sprzedane,33.31,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",34,"III Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",35,"III Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",36,"III Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",37,"III Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",38,"III Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",39,"III Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",4,Parter,2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,251.10,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",40,"III Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",41,"III Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",42,"IV Piętro",3,sprzedane,sprzedane,57.46,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",43,"IV Piętro",2,sprzedane,sprzedane,43.04,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",44,"IV Piętro",3,sprzedane,sprzedane,45.37,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",45,"IV Piętro",2,sprzedane,sprzedane,33.69,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",46,"IV Piętro",2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",47,"IV Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",48,"IV Piętro",2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",49,"IV Piętro",2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",5,Parter,2,sprzedane,sprzedane,27.69,0.00,0.00,PLN,2.34,126.90,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",50,"IV Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",51,"IV Piętro",2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",6,Parter,2,sprzedane,sprzedane,33.34,0.00,0.00,PLN,3.60,59.40,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",7,Parter,2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,59.40,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",8,Parter,2,sprzedane,sprzedane,33.42,0.00,0.00,PLN,3.60,59.40,,2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek B",9,"I Piętro",3,wolne,dostępne,57.46,10400.00,597584.00,PLN,3.60,,"III KWARTAŁ 2025",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",1,Parter,2,wolne,dostępne,42.86,12500.00,535750.00,PLN,3.60,100.30,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",10,Parter,2,wolne,dostępne,33.41,12500.00,417625.00,PLN,3.60,104.40,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",11,Parter,2,sprzedane,sprzedane,33.41,0.00,0.00,PLN,3.60,72.10,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",12,"I Piętro",3,wolne,dostępne,57.61,10200.00,587622.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",13,"I Piętro",2,wolne,dostępne,42.98,11500.00,494270.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",14,"I Piętro",2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",15,"I Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",16,"I Piętro",2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",17,"I Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",18,"I Piętro",2,wolne,dostępne,26.05,12800.00,333440.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",19,"I Piętro",2,rezerwacja,zarezerwowane,27.68,12800.00,354304.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",2,Parter,2,wolne,dostępne,43.04,11800.00,507872.00,PLN,3.60,21.30,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",20,"I Piętro",2,wolne,dostępne,33.33,11800.00,393294.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",21,"I Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",22,"I Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",23,"II Piętro",3,wolne,dostępne,57.61,10200.00,587622.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",24,"II Piętro",2,wolne,dostępne,42.98,11500.00,494270.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",25,"II Piętro",2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",26,"II Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",27,"II Piętro",2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",28,"II Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",29,"II Piętro",2,wolne,dostępne,26.05,12800.00,333440.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",3,Parter,2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,20.60,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",30,"II Piętro",2,wolne,dostępne,27.68,12800.00,354304.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",31,"II Piętro",2,wolne,dostępne,33.33,11800.00,393294.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",32,"II Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",33,"III Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",34,"III Piętro",3,wolne,dostępne,57.61,10200.00,587622.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",35,"III Piętro",2,wolne,dostępne,42.98,11500.00,494270.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",36,"III Piętro",2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",37,"III Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",38,"III Piętro",2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",39,"III Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",4,Parter,2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,20.60,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",40,"III Piętro",2,wolne,dostępne,26.05,12800.00,333440.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",41,"III Piętro",2,wolne,dostępne,27.68,12800.00,354304.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",42,"III Piętro",2,wolne,dostępne,33.33,11800.00,393294.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",43,"III Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",44,"III Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",45,"IV Piętro",3,wolne,dostępne,57.61,10400.00,599144.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",46,"IV Piętro",2,wolne,dostępne,42.98,11700.00,502866.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",47,"IV Piętro",3,wolne,dostępne,45.37,11700.00,530829.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",48,"IV Piętro",2,wolne,dostępne,33.68,12000.00,404160.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",49,"IV Piętro",2,wolne,dostępne,33.40,12000.00,400800.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",5,Parter,2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,19.10,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",50,"IV Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",51,"IV Piętro",2,sprzedane,sprzedane,27.68,0.00,0.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",52,"IV Piętro",2,wolne,dostępne,33.33,12000.00,399960.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",53,"IV Piętro",2,wolne,dostępne,33.41,12000.00,400920.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",54,"IV Piętro",2,wolne,dostępne,33.41,12000.00,400920.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",6,Parter,2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,17.40,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",7,Parter,2,rezerwacja,zarezerwowane,26.05,13300.00,346465.00,PLN,2.34,194.50,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",8,Parter,2,wolne,dostępne,27.68,13300.00,368144.00,PLN,2.34,172.10,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek C",9,Parter,2,wolne,dostępne,33.33,12500.00,416625.00,PLN,3.60,93.10,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",1,Parter,2,wolne,dostępne,42.86,12500.00,535750.00,PLN,3.60,116.40,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",10,Parter,2,wolne,dostępne,33.41,12500.00,417625.00,PLN,3.60,92.70,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",11,Parter,2,wolne,dostępne,33.41,12500.00,417625.00,PLN,3.60,102.00,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",12,"I Piętro",3,wolne,dostępne,57.61,10200.00,587622.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",13,"I Piętro",2,wolne,dostępne,42.98,11500.00,494270.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",14,"I Piętro",2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",15,"I Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",16,"I Piętro",2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",17,"I Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",18,"I Piętro",2,rezerwacja,zarezerwowane,26.05,12800.00,333440.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",19,"I Piętro",2,wolne,dostępne,27.68,12800.00,354304.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",2,Parter,2,wolne,dostępne,43.04,11800.00,507872.00,PLN,3.60,21.30,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",20,"I Piętro",2,wolne,dostępne,33.33,11800.00,393294.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",21,"I Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",22,"I Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",23,"II Piętro",3,wolne,dostępne,57.61,10200.00,587622.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",24,"II Piętro",2,wolne,dostępne,42.98,11500.00,494270.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",25,"II Piętro",2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",26,"II Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",27,"II Piętro",2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",28,"II Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",29,"II Piętro",2,wolne,dostępne,26.05,12800.00,333440.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",3,Parter,2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,20.60,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",30,"II Piętro",2,wolne,dostępne,27.68,12800.00,354304.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",31,"II Piętro",2,wolne,dostępne,33.33,11800.00,393294.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",32,"II Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",33,"II Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",34,"III Piętro",3,wolne,dostępne,57.61,10200.00,587622.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",35,"III Piętro",2,wolne,dostępne,42.98,11500.00,494270.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",36,"III Piętro",2,wolne,dostępne,33.31,11800.00,393058.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",37,"III Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",38,"III Piętro",2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",39,"III Piętro",2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",4,Parter,2,wolne,dostępne,33.40,11800.00,394120.00,PLN,3.60,20.60,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",40,"III Piętro",2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",41,"III Piętro",2,wolne,dostępne,27.68,12800.00,354304.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",42,"III Piętro",2,wolne,dostępne,33.33,11800.00,393294.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",43,"III Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",44,"III Piętro",2,wolne,dostępne,33.41,11800.00,394238.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",45,"IV Piętro",3,wolne,dostępne,57.61,10400.00,599144.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",46,"IV Piętro",2,wolne,dostępne,42.98,11700.00,502866.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",47,"IV Piętro",3,wolne,dostępne,45.37,11700.00,530829.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",48,"IV Piętro",2,wolne,dostępne,33.68,12000.00,404160.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",49,"IV Piętro",2,wolne,dostępne,33.40,12000.00,400800.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",5,Parter,2,wolne,dostępne,33.68,11800.00,397424.00,PLN,3.60,19.10,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",50,"IV Piętro",2,wolne,dostępne,26.05,13000.00,338650.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",51,"IV Piętro",2,wolne,dostępne,27.68,13000.00,359840.00,PLN,2.34,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",52,"IV Piętro",2,wolne,dostępne,33.33,12000.00,399960.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",53,"IV Piętro",2,wolne,dostępne,33.41,12000.00,400920.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",54,"IV Piętro",2,wolne,dostępne,33.41,12000.00,400920.00,PLN,3.60,,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",6,Parter,2,sprzedane,sprzedane,33.40,0.00,0.00,PLN,3.60,17.40,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",7,Parter,2,sprzedane,sprzedane,26.05,0.00,0.00,PLN,2.34,175.20,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",8,Parter,2,wolne,dostępne,27.68,13300.00,368144.00,PLN,2.34,175.70,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,mieszkanie,"Ecco Panorama","Budynek D",9,Parter,2,wolne,dostępne,33.33,12500.00,416625.00,PLN,3.60,92.70,"III Kwartał 2027",2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","1 + K29",,,sprzedane,sprzedane,13.66,3733.53,51000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",10,,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",11,,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",12,,,sprzedane,sprzedane,13.38,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","13 + K31",,,sprzedane,sprzedane,14.88,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","14 + K32",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",15,,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","16 + K33",,,sprzedane,sprzedane,14.28,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","17 + K34",,,sprzedane,sprzedane,14.96,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",18,,,sprzedane,sprzedane,13.65,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",19,,,wolne,dostępne,12.51,3357.31,42000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","2 + K30",,,sprzedane,sprzedane,14.05,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","20 + K35",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","21 + K36",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","22 + K37",,,sprzedane,sprzedane,12.75,3764.71,48000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","23 + K38",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","24 + K39",,,sprzedane,sprzedane,13.65,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","25 + K40",,,sprzedane,sprzedane,12.75,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","26 + K41",,,sprzedane,sprzedane,14.75,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","27 + K42",,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","28 + K43",,,sprzedane,sprzedane,14.00,3500,49000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","29 + K44",,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",3,,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","30 + K45",,,sprzedane,sprzedane,13.48,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","31 + K46",,,sprzedane,sprzedane,15.44,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",32,,,sprzedane,sprzedane,14.96,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",33,,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",34,,,wolne,dostępne,14.00,3000,42000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","35 + K20",,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","36 + K21",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","37 + K23",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","38 + K24",,,sprzedane,sprzedane,13.27,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","39 + K25",,,sprzedane,sprzedane,15.46,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",4,,,sprzedane,sprzedane,13.43,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","40 + K26",,,sprzedane,sprzedane,15.39,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","41 + K27",,,sprzedane,sprzedane,13.33,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek A","42 + K28",,,sprzedane,sprzedane,13.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",5,,,sprzedane,sprzedane,13.38,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",6,,,sprzedane,sprzedane,13.38,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",7,,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",8,,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek A",9,,,sprzedane,sprzedane,13.38,3139.01,42000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K1,,,sprzedane,sprzedane,4.09,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K10,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K11,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K12,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K13,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K14,,,rezerwacja,zarezerwowane,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K15,,,sprzedane,sprzedane,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K16,,,wolne,dostępne,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K17,,,wolne,dostępne,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K18,,,wolne,dostępne,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K19,,,sprzedane,sprzedane,2.49,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K2,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K22,,,sprzedane,sprzedane,4.43,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K3,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K4,,,sprzedane,sprzedane,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K5,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K6,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K7,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K8,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek A",K9,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",1,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",10,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",11,,,rezerwacja,zarezerwowane,,,30000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",12,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",13,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",14,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",15,,,wolne,dostępne,,,30000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",16,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",17,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",18,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",19,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",2,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",20,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",21,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",22,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",23,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",24,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",25,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",26,,,rezerwacja,zarezerwowane,,,30000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",27,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",28,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",29,,,sprzedane,sprzedane,,,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",3,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",4,,,sprzedane,sprzedane,,,25000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",5,,,sprzedane,sprzedane,,,25000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",6,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",7,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",8,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki A i B",9,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",1,,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","10 + K38",,,sprzedane,sprzedane,13.38,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","11 + K39",,,sprzedane,sprzedane,14.88,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","12 + K41",,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","13 + K42",,,sprzedane,sprzedane,14.00,3642.86,51000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","14 + K43",,,sprzedane,sprzedane,14.28,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","15 + K44",,,sprzedane,sprzedane,14.95,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",16,,,wolne,dostępne,13.65,3296.7,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",17,,,wolne,dostępne,12.51,3357.31,42000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","18 + K45",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","19 + K46",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",2,,,sprzedane,sprzedane,13.43,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","20 + K47",,,sprzedane,sprzedane,12.75,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","21 + K48",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","22 + K49",,,sprzedane,sprzedane,13.65,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","23 + K50",,,sprzedane,sprzedane,12.75,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","24 + K51",,,sprzedane,sprzedane,14.75,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",25,,,wolne,dostępne,14.40,3472.22,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","26 + K52",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","27 + K53",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",28,,,sprzedane,sprzedane,13.48,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",29,,,sprzedane,sprzedane,16.40,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","3 + K31",,,sprzedane,sprzedane,13.38,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",30,,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",31,,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek B",32,,,sprzedane,sprzedane,14.00,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","33 + K20",,,sprzedane,sprzedane,14.00,3642.86,51000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","34 + K21",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","35 + K23",,,sprzedane,sprzedane,14.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","36 + K24",,,sprzedane,sprzedane,13.33,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","37 + K25",,,sprzedane,sprzedane,15.39,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","38 + K26",,,sprzedane,sprzedane,15.39,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","39 + K27",,,sprzedane,sprzedane,15.46,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","4 + K32",,,sprzedane,sprzedane,13.38,3736.92,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","40 + K28",,,sprzedane,sprzedane,15.46,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","41 + K29",,,sprzedane,sprzedane,13.33,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","42 + K30",,,sprzedane,sprzedane,13.00,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","6 + K34",,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","7 + K35",,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","8 + K36",,,sprzedane,sprzedane,13.38,3811.66,51000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek B","9 + K37",,,sprzedane,sprzedane,13.38,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K1,,,sprzedane,sprzedane,4.09,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K10,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K11,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K12,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K13,,,rezerwacja,zarezerwowane,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K14,,,wolne,dostępne,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K15,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K16,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K17,,,wolne,dostępne,2.72,3308.82,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K18,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K19,,,rezerwacja,zarezerwowane,2.49,3614.46,9000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K2,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K22,,,wolne,dostępne,4.94,2631.58,13000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K3,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K40,,,rezerwacja,zarezerwowane,6.04,2152.32,13000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K5,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K6,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K7,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K8,,,sprzedane,sprzedane,2.72,0,,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek B",K9,,,sprzedane,sprzedane,2.72,0,0.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",1,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",10,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",11,,,sprzedane,sprzedane,14.88,3024.19,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",12,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",13,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C","14 + K 41",,,wolne,dostępne,14.28,4102.94,58590.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C","15 + K 40",,,sprzedane,sprzedane,14.95,3919.06,58590.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",16,,,wolne,dostępne,13.65,3296.7,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",17,,,wolne,dostępne,12.51,3597.12,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","18 + K39",,,wolne,dostępne,13.65,4127.47,56340.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","19 + K38",,,rezerwacja,zarezerwowane,13.65,4200,57330.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",2,,,wolne,dostępne,13.43,3350.71,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","20 + K37",,,wolne,dostępne,12.75,4507.06,57465.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","21 + K36",,,wolne,dostępne,13.65,4091.21,55845.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","22 + K35",,,wolne,dostępne,13.65,4140.66,56520.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","23 + K34",,,wolne,dostępne,12.75,4482.35,57150.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","24 + K33",,,wolne,dostępne,14.75,3895.93,57465.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",25,,,wolne,dostępne,14.40,3125,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","26 + K31",,,wolne,dostępne,14.00,4271.79,59805.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","27 + K32",,,wolne,dostępne,14.00,4136.79,57915.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",28,,,wolne,dostępne,13.48,3338.28,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",29,,,wolne,dostępne,15.44,2914.51,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",3,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",30,,,wolne,dostępne,14.96,3008.02,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",31,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",32,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","33 + K20",,,wolne,dostępne,14.00,4204.29,58860.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","34 + K21",,,wolne,dostępne,14.00,4204.29,58860.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","35 + K23",,,wolne,dostępne,14.00,4204.29,58860.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","36 + K24",,,wolne,dostępne,13.33,4378.47,58365.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","37 + K25",,,wolne,dostępne,15.39,3856.73,59355.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","38 + K26",,,wolne,dostępne,15.39,3935.67,60570.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","39 + K27",,,wolne,dostępne,15.46,3862.55,59715.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",4,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","40 + K28",,,wolne,dostępne,15.46,3912.03,60480.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","41 + K29",,,wolne,dostępne,13.33,4554.01,60705.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek C","42 + K30",,,wolne,dostępne,17.43,3271.08,57015.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",5,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",6,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",7,,,rezerwacja,zarezerwowane,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",8,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek C",9,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K1,,,wolne,dostępne,4.09,4500,18405.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K10,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K11,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K12,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K13,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K14,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K15,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K16,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K17,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K18,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K19,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K2,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K22,,,wolne,dostępne,4.94,4500,22230.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K3,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K4,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K42,,,wolne,dostępne,4.64,4500,20880.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K5,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K6,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K7,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K8,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek C",K9,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",1,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",10,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",11,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",12,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",13,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",14,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",15,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",16,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",17,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",18,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",19,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",2,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",20,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",21,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",22,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",23,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",24,,,sprzedane,sprzedane,,,,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",25,,,sprzedane,sprzedane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",26,,,sprzedane,sprzedane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",27,,,sprzedane,sprzedane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",28,,,sprzedane,sprzedane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",29,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",3,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",30,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",31,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",32,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",33,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",34,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",35,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",36,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",37,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",38,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",39,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",4,,,wolne,dostępne,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",40,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",41,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",42,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",43,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",44,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",45,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",46,,,rezerwacja,zarezerwowane,,,28000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",5,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",6,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",7,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",8,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe zewnętrzne","Ecco Panorama","Budynki C i D",9,,,wolne,dostępne,40.00,1250,50000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",1,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",10,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",11,,,wolne,dostępne,14.88,3024.19,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",12,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",13,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","14 + K41",,,wolne,dostępne,14.28,4102.94,58590.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","15 + K40",,,wolne,dostępne,14.95,3919.06,58590.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",16,,,wolne,dostępne,13.65,3296.7,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",17,,,wolne,dostępne,12.51,3597.12,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","18 + K39",,,wolne,dostępne,13.65,4127.47,56340.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","19 + K38",,,wolne,dostępne,13.65,4200,57330.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",2,,,wolne,dostępne,13.43,3350.71,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","20 + K37",,,wolne,dostępne,12.75,4507.06,57465.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","21 + K36",,,wolne,dostępne,13.65,4091.21,55845.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","22 + K35",,,wolne,dostępne,13.65,4140.66,56520.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","23 +K34",,,wolne,dostępne,12.75,4482.35,57150.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","24 + K33",,,wolne,dostępne,14.75,3895.93,57465.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",25,,,wolne,dostępne,14.40,3125,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","26 + K31",,,wolne,dostępne,14.00,4271.79,59805.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","27 + K32",,,wolne,dostępne,14.00,4136.79,57915.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",28,,,wolne,dostępne,13.48,3338.28,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",29,,,wolne,dostępne,15.44,2914.51,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",3,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",30,,,wolne,dostępne,14.96,3008.02,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",31,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",32,,,wolne,dostępne,14.00,3214.29,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","33 + K20",,,wolne,dostępne,14.00,4204.29,58860.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","34 + K21",,,wolne,dostępne,14.00,4204.29,58860.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","35 + K23",,,wolne,dostępne,14.00,4204.29,58860.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","36 + K24",,,wolne,dostępne,13.33,4378.47,58365.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","37 + K25",,,wolne,dostępne,15.39,3856.73,59355.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","38 + K26",,,wolne,dostępne,15.39,3935.67,60570.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","39 +K27",,,wolne,dostępne,15.46,3862.55,59715.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",4,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","40 + K28",,,wolne,dostępne,15.46,3912.03,60480.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","41 + K29",,,wolne,dostępne,13.33,4554.01,60705.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe z komórką lokatorską","Ecco Panorama","Budynek D","42 + K30",,,wolne,dostępne,17.43,3271.08,57015.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",5,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",6,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",7,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",8,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"miejsce postojowe","Ecco Panorama","Budynek D",9,,,wolne,dostępne,13.38,3363.23,45000.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K1,,,wolne,dostępne,4.09,4500,18405.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K10,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K11,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K12,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K13,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K14,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K15,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K16,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K17,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K18,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K19,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K2,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K22,,,wolne,dostępne,4.94,4500,22230.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K3,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K4,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K42,,,wolne,dostępne,4.64,4500,20880.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K5,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K6,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K7,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K8,,,sprzedane,sprzedane,2.72,4500,12240.00,PLN,,,,2025-09-09
+"PM Development",6762594840,"komórka lokatorska","Ecco Panorama","Budynek D",K9,,,wolne,dostępne,2.72,4500,12240.00,PLN,,,,2025-09-09
